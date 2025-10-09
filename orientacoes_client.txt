@@ -6,4 +6,5 @@
 
 4. Abra o prompt de comando
 
-5. Execute o código --> python app.py
+5. Execute o código --> python agent.py
+
